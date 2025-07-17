@@ -1,4 +1,4 @@
-## Github organizations for the repositories owned by LCR Embedded Systems.
+## Github organization for the repositories owned by LCR Embedded Systems.
 
 
 <!--
